@@ -4,6 +4,8 @@
  * 
  * Brian Yoo 
  */
+ 
+ *** All use of this code must comply with the Rutgers University Code of Student Conduct.
 
 Upon running the applicaiton, an login page will prompt for a user name.
 To create a new user, one must log into the admin account by typing in "admin". This will bring you to the administrator frame
